@@ -1,0 +1,19 @@
+{
+  "name": "kolobok-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@waxio/waxjs": "^0.0.14",
+    "axios": "^0.21.1",
+    "eosjs": "^21.0.3",
+    "faker": "^5.4.0",
+    "lodash": "^4.17.21",
+    "node-fetch": "^2.6.1"
+  }
+}
