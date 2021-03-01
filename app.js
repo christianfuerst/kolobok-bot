@@ -94,6 +94,7 @@ function burnNft(nftArray) {
               data: {
                 owner: config.account,
                 assetids: idsArray,
+                memo: faker.random.words(),
               },
             },
           ],
